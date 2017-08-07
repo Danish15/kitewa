@@ -1,0 +1,17 @@
+
+
+h2,p, #buttons>a
+    {
+    color: rgb(236,26,35);
+    }
+.intro {
+        background: white;
+       
+}
+
+#buttons {
+    justify-content: center;
+    display: flex;
+    
+}
+
