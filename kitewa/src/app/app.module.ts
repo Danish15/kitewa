@@ -30,6 +30,7 @@ import { HomeComponent } from './home/home.component';
   imports: [
     BrowserModule,
     routes
+
   ],
   providers: [],
   bootstrap: [AppComponent]
