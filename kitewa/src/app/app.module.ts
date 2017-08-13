@@ -13,6 +13,8 @@ import { LocationComponent } from './location/location.component';
 import { PicturesComponent } from './pictures/pictures.component';
 import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
+import { AgmCoreModule } from '@agm/core';
+
 
 
 @NgModule({
@@ -27,6 +29,8 @@ import { HomeComponent } from './home/home.component';
     PicturesComponent,
     ContactComponent,
     HomeComponent
+    
+    
   ],
   imports: [
     BrowserModule,

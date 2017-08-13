@@ -1,11 +1,11 @@
 
 
-td,th,p,h2
+td,th,p,h3, h2
     {
     color: darkblue;
     }
 
-h2 {
+h3, h2, p {
     text-align: center;
 }
 
