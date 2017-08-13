@@ -1,7 +1,10 @@
 
 
-h1,p
+ h3, p
     {
-    color: rgb(236,26,35);
+    color: darkblue;
     }
 
+h3, p {
+    text-align: center;
+}

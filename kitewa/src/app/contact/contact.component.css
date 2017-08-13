@@ -1,5 +1,5 @@
 p {
-    color: rgb(236,26,35);
+    color: darkblue;
 }
 
 .contact-clean {
@@ -35,7 +35,7 @@ p {
   font-weight:bold;
   font-size:28px;
   margin-bottom:36px;
-  color: rgb(236,26,35);
+  color: darkblue;
 }
 
 .contact-clean .form-group:last-child {

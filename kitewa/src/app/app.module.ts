@@ -14,6 +14,7 @@ import { PicturesComponent } from './pictures/pictures.component';
 import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,

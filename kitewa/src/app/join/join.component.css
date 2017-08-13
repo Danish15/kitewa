@@ -2,5 +2,9 @@
 
 td,th,p
     {
-    color: rgb(236,26,35);
+    color: navy;
     }
+
+P {
+    text-align: center;
+}
