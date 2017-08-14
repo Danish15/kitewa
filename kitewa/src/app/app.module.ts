@@ -1,6 +1,9 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import {routes} from './app.router';
+import {TranslateModule} from 'ng2-translate';
+
+
 
 
 import { AppComponent } from './app.component';
@@ -13,7 +16,6 @@ import { LocationComponent } from './location/location.component';
 import { PicturesComponent } from './pictures/pictures.component';
 import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
-import { AgmCoreModule } from '@agm/core';
 
 
 
@@ -34,7 +36,8 @@ import { AgmCoreModule } from '@agm/core';
   ],
   imports: [
     BrowserModule,
-    routes
+    routes,
+    TranslateModule.forRoot()
 
   ],
   providers: [],
