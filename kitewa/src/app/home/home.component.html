@@ -5,10 +5,15 @@
                 </div>
             </div>
             <div>
-                <h1> {{'Home.H1'| translate}} </h1>
+                <h1>{{'Home.H1'| translate}} </h1>
                 <p>{{'Home.P1' | translate}}</p>
                 <p>{{'Home.P2' | translate}}</p>
             </div>
-            <div id="buttons"><a class="btn btn-default btn-lg" role="button" href="concept">ENGLISH </a>&nbsp;&nbsp;&nbsp;<a class="btn btn-default btn-lg" role="button" href="concept-japanese.html">日本語 </a></div>
+            <div id="buttons">
+            <a (click)="changeLanguage('en')" class="btn btn-default btn-lg" role="button" >{{'Language.English'| translate}} </a>&nbsp;&nbsp;&nbsp;
+            <a (click)="changeLanguage('jp')" class="btn btn-default btn-lg" role="button" >{{'Language.Japanese'| translate}}  </a></div>
         </div>
     </div>
+
+
+    

@@ -1,6 +1,23 @@
 
 {
 
+"Navbar": {
+    "Title": "Kitewa Woodwork Shop",
+    "Concept": "Concept",
+    "Training": "Training",
+    "Join": "Join",
+    "About": "About",
+    "Location": "Location and Hours",
+    "Pictures": "Pictures",
+    "Contact": "Contact"
+},
+
+"Language": {
+    "English": "English",
+    "Japanese": "Japanese"
+
+},
+
 "Home": {
 "H1": "Kitewa Woodwork Shop",
 "P1": "open every saturday & sunday 11am-6pm",
@@ -31,7 +48,69 @@
     "Submit": "Submit",
     "P1": "Phone",
     "P2": "Email"
+},
 
+"Join": {
+    "P1": "Kitewa Wood Workshop has lots of ways to enjoy your time here, depending on what you want to do.",
+    "P2": "(all fees include consumption tax)",
+    "TH1" : "Type",
+    "TH2":  "Details",
+    "TH3":  "Cost",
+    "TD1": "Daily",
+    "TD2": "11am-6pm",
+    "TD3": "¥4,000",
+    "TD4": "Half-day",
+    "TD5": "3pm - 6pm",
+    "TD6": "¥2,500",
+    "TD7": "Monthly",
+    "TD8": "¥16,000",
+    "TD9": "Annually ",
+    "TD10": "¥150,000",
+    "TD11": "One-to-One (with instructor)",
+    "TD12": "7 hours",
+    "TD13": "¥30,000",
+    "TD14": "Seminars & Courses",
+    "TD15": "¥5,000",
+    "TD16": "Basic Use & Safety",
+    "TD17": "2 hours",
+    "TD18": "¥0 (Free!)",
+    "TD19": "Shop Rental",
+    "TD20": "¥10,000 (Daily)",
+    "P3":"Gift Certificates available! ",
+    "P4": "Corporate rates available - please email for details"
+},
+
+"Location":{
+    "H3": "Kitewa Location",
+    "P1": "Address: 2-9-9 2 floor, Shiba Minato ku, 105-0014",
+    "H2": "Open",
+    "TH1": "Day",
+    "TH2": "Time",
+    "TD1": "Saturday",
+    "TD2": "11 am - 6pm",
+    "TD3": "Sunday",
+    "TD4": "11 am - 6pm",
+    "H22": "Location",
+    "TH3": "Station",
+    "TH4": "Distance",
+    "TD5": "Shiba Koen Station A1",
+    "TD6": "3 min",
+    "TD7": "Mita Station A9 ",
+    "TD8": "7 min",
+    "TD9": "Akabanebashi Station",
+    "TD10": "9 min",
+    "TD11": "Tamachi Station",
+    "TD12": "15 min",
+    "TD13": "Hamamatsucho / Daimon",
+    "TD14": "15 min"
+},
+
+"Training": {
+    "H3": "We offer “Content and Language Integrated Training,” for Woodworking and English skills.",
+    "P1": "It’s a great way to learn new skills, use them in a practical way and increase your confidence.",
+    "P2": "If you have never used a tool before, we’ll teach you the basic use and safety.",
+    "P3": "As your skill increases and you want to try new tools or techniques, we’re here to guide you. Safety first!.",
+    "P4": "We also offer seminars on different skills, for example, Japanese Joinery, Furniture Design, Finishing, etc. Seminars and courses are taught in Japanese and English"
 }
 
 
