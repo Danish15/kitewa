@@ -14,8 +14,17 @@ export class AppComponent {
     translate.setDefaultLang("en");
 
     let browserlang = translate.getBrowserLang();
-   translate.use(browserlang.match(/en|jp/) ? browserlang: "en")
+  // translate.use(browserlang.match(/en|jp/) ? browserlang: "en")
+     translate.use('jp')
+
+
+
+
     
+  }
+    changeLanguage(lang){
+      this.translate.use(lang);
+    }
 
   }
-}
+

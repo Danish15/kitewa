@@ -1,8 +1,41 @@
 
 {
-"Title": "Welcome"
+
+"Home": {
+"H1": "Kitewa Woodwork Shop",
+"P1": "open every saturday & sunday 11am-6pm",
+"P2":"Free intro lesson!"
+},
+
+"About":{
+"P1": "Tim Quillian, owner of Kitewa Wood Workshop, has been doing DIY for more than 20 years.",
+"P2": "Moving to Japan in 2005, he teaches business English to employees at companies such as Nomura, NEC, Marubeni, Accenture, Sony, Mitsui Fudosan, Dentsu, Morgan Stanley, Softbank, Apple, Suntory, PwC, Sumitomo Life, etc."
+},
+
+"Concept": {
+    "H3":"Kitewa (木手和) Wood Workshop is a community for woodworkers.",
+    "P1":"In Japanese, 木 (ki) means 'wood' 手(te) means 'hand' & 和(wa) means 'harmony.' ",
+    "P2":"Kitewa provides a variety of professional-grade tools to help you build almost any project",
+    "P3":"In addition to learning woodworking skills, you can also learn English! ",
+    "P4":"You supply the imagination, materials and desire!",
+    "P5":"It's perfect for people who want to make things, but don't have the tools, space or skills. &nbsp;Kitewa is open to everyone, from beginners to master craftsmen.", 
+    "P6":"If you already know how to use the tools, you can start your project today!&nbsp; If you’re just beginning, or if there is a tool that’s new to you, we offer instruction in basic use and safety, so you can quickly start working on your project.",
+    "P7":"Come to Kitewa to learn new skills, meet new people and have fun!When your project is finished you can say, “I made that!”"
+
+},
+"Contact":{
+    "H2": "Contact Us",
+    "Name": "Name",
+    "Email": "Email",
+    "Message": "Message",
+    "Submit": "Submit",
+    "P1": "Phone",
+    "P2": "Email"
+
 }
 
+
+}
 
 
 
