@@ -14,7 +14,7 @@ import { HomeComponent } from './home/home.component';
 
 
 export const router: Routes = [
-    {path: '', redirectTo: 'home', pathMatch: 'full'},
+    {path: '', redirectTo: 'home', pathMatch: 'full'}, 
     {path: 'about', component: AboutComponent},
     {path: 'concept', component: ConceptComponent},
     {path: 'training', component: TrainingComponent},

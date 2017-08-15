@@ -5,7 +5,6 @@ import {TranslateModule} from 'ng2-translate';
 
 
 
-
 import { AppComponent } from './app.component';
 import { NavComponent } from './nav/nav.component';
 import { ConceptComponent } from './concept/concept.component';
